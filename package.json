@@ -1,0 +1,14 @@
+{
+  "name": "quotesondesign",
+  "version": "1.0.0",
+  "description": "Test for QoD Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedric",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
